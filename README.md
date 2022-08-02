@@ -40,17 +40,17 @@ This was originally a homework assignment for the University of Texas Austin Cod
 ## Links
 
 - [GitHub repository](https://github.com/carissamero/React-Portfolio.git)
-- [Deployed application]()
+- [Deployed application](https://polar-caverns-09459.herokuapp.com/)
 
 ## Screenshots
 
 ### About Me Component Displayed
 
-![Screenshot of the About Me section.]()
+![Screenshot of the About Me section.](Unfinished)
 
 ### Portfolio Page and Project Components Displayed
 
-![Screenshot of the portfolio page and project components.]()
+![Screenshot of the portfolio page and project components.](Unfinished)
 
 ## Questions
 
