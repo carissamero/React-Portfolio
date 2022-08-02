@@ -1,0 +1,60 @@
+:root {
+    --color-lighter-blue: steelblue;
+    --color-darker-blue: #014769;
+    --color-white: white;
+}
+
+
+/* ---Element Selectors--- */
+
+body {
+    line-height: 1.3;
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    font-size: 250%;
+}
+
+h2 {
+    font-size: 150%;
+    color: var(--color-darker-blue);
+}
+
+h3,
+p {
+    font-size: 100%;
+}
+
+main {
+    margin: 1%;
+}
+
+section {
+    margin: 1%;
+    border-style: solid;
+    border-color: var(--color-lighter-blue);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+/* ---Class Selectors--- */
+
+
+/* Bootstrap Button Adjustments */
+
+.btn-primary {
+    background-color: var(--color-lighter-blue) !important;
+    border-color: var(--color-lighter-blue) !important;
+}
+
+
+/* For work samples */
+
+.work-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

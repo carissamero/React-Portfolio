@@ -1,0 +1,1 @@
+import employeeTrackerScreenshot from "./employee-tracker-screenshot.png";
