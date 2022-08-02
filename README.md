@@ -40,7 +40,7 @@ This was originally a homework assignment for the University of Texas Austin Cod
 ## Links
 
 - [GitHub repository](https://github.com/carissamero/React-Portfolio.git)
-- [Deployed application](https://polar-caverns-09459.herokuapp.com/)
+- [Deployed application Heroku having difficulties](https://polar-caverns-09459.herokuapp.com/)
 
 ## Screenshots
 
